@@ -1,0 +1,7 @@
+projectflow.txt
+
+1   Building Pipeline:
+2   1> Create a GitHub repo and clone it in local (Add experiments).
+3   2> Add src folder along with all components(run them individually).
+4   3> Add data, models, reports directories to .gitignore file
+5   4> Now git add, commit, push 
