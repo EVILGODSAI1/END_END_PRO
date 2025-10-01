@@ -27,3 +27,8 @@
 #     text = [ps.stem(word) for word in text]
 #     return " ".join(text)
 
+
+
+    
+
+

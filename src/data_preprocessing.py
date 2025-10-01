@@ -7,6 +7,7 @@ from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 import string
 import nltk
+import yaml
 nltk.download('stopwords')
 nltk.download('punkt')
 
